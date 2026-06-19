@@ -21,12 +21,12 @@ The objectives of this repository are:
 .
 ├── Marcelia_Chintya_PSO__ABC.ipynb
 ├── README.md
-├── results/
+├── Results/
 │   ├── raw_simulation_results.csv
 │   ├── raw_convergence_history.csv
 │   ├── summary_results.csv
 │   └── scenario_winner_summary.csv
-├── figures/
+├── Figures/
 │   ├── best_path_*.png
 │   ├── convergence_*.png
 │   ├── mean_cost_comparison.png
