@@ -1,0 +1,6 @@
+scenario,lower_mean_cost,lower_mean_path_length,lower_mean_execution_time,higher_success_rate
+S1,ABC,ABC,PSO,ABC
+S2,PSO,PSO,PSO,ABC
+S3,PSO,PSO,PSO,ABC
+S4,ABC,ABC,PSO,ABC
+S5,ABC,ABC,PSO,PSO
