@@ -15,24 +15,6 @@ The objectives of this repository are:
 3. To evaluate the algorithms using path cost, path length, obstacle collision, separation violation, execution time, success rate, and convergence behavior.
 4. To generate raw simulation data that can be attached to a lab report.
 
-## Repository Structure
-
-```text
-.
-├── Marcelia_Chintya_PSO__ABC.ipynb
-├── README.md
-├── Results/
-│   ├── raw_simulation_results.csv
-│   ├── raw_convergence_history.csv
-│   ├── summary_results.csv
-│   └── scenario_winner_summary.csv
-├── Figures/
-│   ├── best_path_*.png
-│   ├── convergence_*.png
-│   ├── mean_cost_comparison.png
-│   ├── execution_time_comparison.png
-│   └── success_rate_comparison.png
-```
 ## Simulation Scenarios
 
 The experiment uses five simulation scenarios.
